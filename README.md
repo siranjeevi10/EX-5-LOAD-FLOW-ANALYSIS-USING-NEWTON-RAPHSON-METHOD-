@@ -41,7 +41,12 @@ limits). If converged, go to step 9.
 9. Calculate all the line flows, slack bus power, line losses and reactive power generations at 
 other generator buses and print the results.
 # CIRCUIT DIAGRAM:
+<img width="512" height="304" alt="image" src="https://github.com/user-attachments/assets/ff515cab-89d3-4e9a-b696-1f8f53bd24d1" />
+
 # OUTPUT:
+<img width="777" height="483" alt="image" src="https://github.com/user-attachments/assets/a87b38bf-b84d-40ec-ba61-77f2bfe32100" />
+
+
 # RESULT:
 Thus,To carry out the load flow analysis for the given network by Newton-Raphson method 
 Is successfully done using an etap software and the ouput is obtained.
